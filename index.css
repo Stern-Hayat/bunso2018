@@ -1,0 +1,29 @@
+
+.container_top{                            /* 画像のサイズを指定    */
+    width:100%;                                            /* 横幅のサイズを指定    */
+    height: auto;
+    background-color: white;
+}
+
+.container_top img{
+    width: 100%;
+    height: auto;
+}
+
+.up{
+    background-color: #eeeeee;
+}
+
+body{
+    height:100%;
+    background: -webkit-repeating-linear-gradient(-45deg, #cce7ff, #cce7ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+    background: repeating-linear-gradient(-45deg, #cce7ff, #cce7ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+}
+
+.box{
+    background-color: white;
+    margin: 15px 0;
+    padding: 5px;
+    box-shadow: 0 0 5px gray;
+}
+
